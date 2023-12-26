@@ -1,5 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://www.linkedin.com/in/yusuf-can-yildirim-99490423a/overlay/background-image/))
-
+[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://www.canva.com/design/DAFu0YNa51I/YB26bd-n2wUdzt3Amb7kvw/view?utm_content=DAFu0YNa51I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 <h1 align="center">Hi 👋, I'm Yusuf Can YILDIRIM</h1>
 <h3 align="center">A passionate Jr.Backend Developer from Turkey</h3>
 
