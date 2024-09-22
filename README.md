@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Can YILDIRIM</h1>
-<h3 align="center">A passionate Jr.Backend Developer from Turkey</h3>
+<h3 align="center">A passionate Jr.Software Developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
