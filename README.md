@@ -1,4 +1,4 @@
-```md
+
 <p align="left">
   <a href="https://www.linkedin.com/in/yusuf-can-yildirim-99490423a/">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square" alt="LinkedIn" />
@@ -11,6 +11,4 @@
   </a>
 </p>
 
----
-```
 
